@@ -29,9 +29,11 @@ python main.py
 
 ## Structure du projet
 
+```
 gestion-notes/
 |-- main.py
 |-- notes.py
 |-- notes.json
 |-- notes_backup.json
 |__ README.md
+```
